@@ -193,7 +193,7 @@ fi
 
 
 #网卡压力测试服务主机
-IP=223.111.192.179
+IP=***********
 scp_dir=/data/script/new_yy_test_tools
 #scp_dir=`pwd`
 
